@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Andrew Hobbs",
+            "title": "Balloon shot down LIVE UPDATES: China’s top diplomat lashes out at ‘absurd’ America over spy balloon",
+            "description": "China’s top foreign policy official launched a significant escalation of the simmering balloon saga; Kamala Harris says Russia has committed “crimes against” humanity in Ukraine; Australia on top in second cricket Test against India.",
+            "url": "http://www.afr.com/politics/federal/china-lashes-out-at-absurd-america-over-spy-balloon-20230219-p5clmc",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2695%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_382%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/95fa160d377ddb840f09ceb539f1aa576c431727",
+            "publishedAt": "2023-02-18T20:13:05Z",
+            "content": "Munich | The United States has determined that Russia has committed crimes against humanity in Ukraine, Vice President Kamala Harris said Saturday, insisting that justice must be served to the perpet… [+3538 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Courtney Gould",
+            "title": "PM talks cricket, trade with Indian minister",
+            "description": "<p>Anthony Albanese has talked up Australia&rsquo;s relationship with India ahead of his upcoming trip to the subcontinent. </p>",
+            "url": "https://www.news.com.au/world/asia/anthony-albanese-meets-with-indias-external-affairs-minister/news-story/335703dc2708e48003a303b420a6cf0f",
+            "urlToImage": "https://content.api.news/v3/images/bin/24191c4c0f5214f735ef1f3b3b6db5ca",
+            "publishedAt": "2023-02-18T02:01:45+00:00",
+            "content": "<p>Anthony Albanese has talked up Australia&rsquo;s relationship with India ahead of his upcoming trip to the subcontinent. </p>"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
